@@ -69,7 +69,7 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 22.04 LTS
 ### STEP 5 Install MariaDB
 
     sudo apt-get install software-properties-common
-    sudo apt install mariadb-server
+    sudo apt install mariadb-server mariadb-client
     sudo mysql_secure_installation
     
     
